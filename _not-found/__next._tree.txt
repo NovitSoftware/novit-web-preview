@@ -1,2 +1,2 @@
-:HL["/novit-web-preview/_next/static/chunks/0qhwnp2n9ayun.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"_9aEi0bpZj9YdsxO-tkVG"}
+:HL["/novit-web-preview/_next/static/chunks/1a6_xz0eent9z.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"xAcgSG9r7C2RNR02zo2GH"}
