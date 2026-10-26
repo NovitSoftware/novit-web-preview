@@ -1,0 +1,30 @@
+# Novit Software
+
+> Desarrollamos software a medida y agentes de IA integrados al proceso real de tu empresa, con foco en la reducción de costos y el mantenimiento a largo plazo.
+
+- Novit Software es una empresa argentina de desarrollo de software y transformación con inteligencia artificial, fundada en 2015.
+- Novit Software tiene clientes activos en 5 países: Argentina, Chile, España, México, Estados Unidos.
+- Novit Software fue fundada por Leandro A. Vazquez (Co-founder & CEO) y Rodrigo H. Vazquez (Co-founder, CTO & COO).
+- Novit Software es parte de la Anthropic Partner Network y su equipo se capacita con los cursos oficiales de Anthropic.
+- Novit Software desarrolla agentes de IA integrados a los procesos de cada empresa, software a medida, consultoría IT (CTO as a Service), staff augmentation y ciberseguridad.
+- La Academia Novit es una formación gratuita, 100% online y con aval de UTN-FRBA sobre desarrollo de agentes de IA y software agéntico.
+
+## Páginas
+
+- [Inicio](https://www.novitsoftware.com/): Qué hacemos, el equipo y cómo contactarnos.
+- [Inteligencia Artificial y Software Agéntico](https://www.novitsoftware.com/inteligencia-artificial/): Estrategia, infraestructura y agentes de IA sobre una arquitectura reutilizable en la red privada de tu empresa.
+- [Desarrollo y Consultoría IT](https://www.novitsoftware.com/desarrollo-y-consultoria/): Software a medida por etapas, con entregables propios en cada una, y consultoría sobre el proceso de desarrollo: métricas, KPI y optimización.
+- [Casos de éxito](https://www.novitsoftware.com/casos-de-exito/): Agentes de IA en producción y una década de proyectos: sistemas de gestión, plataformas web y mobile, consultoría de procesos y equipos integrados.
+- [Desarrollo de Agentes IA y Software Agéntico](https://www.novitsoftware.com/academianovit/): Cursada de 32 horas sobre diseño y construcción de sistemas agénticos: arquitectura, orquestación, contexto, costos, seguridad y observabilidad.
+
+## Contacto
+
+- WhatsApp: +54 11 3176 9406 (https://wa.me/5491131769406)
+- Email: info@novitsoftware.com
+- Academia: academia@novit.com.ar
+- Instagram: https://www.instagram.com/novit.software
+- LinkedIn: https://www.linkedin.com/company/novit-software
+
+## Opcional
+
+- [Todo el contenido del sitio en un solo archivo](https://www.novitsoftware.com/llms-full.txt)

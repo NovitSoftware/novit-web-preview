@@ -1,0 +1,206 @@
+# Novit Software — Desarrollo de Software y Transformación IA
+
+> Desarrollamos software a medida y agentes de IA integrados al proceso real de tu empresa, con foco en la reducción de costos y el mantenimiento a largo plazo.
+
+Sitio: https://www.novitsoftware.com
+
+## Datos clave
+
+- Novit Software es una empresa argentina de desarrollo de software y transformación con inteligencia artificial, fundada en 2015.
+- Novit Software tiene clientes activos en 5 países: Argentina, Chile, España, México, Estados Unidos.
+- Novit Software fue fundada por Leandro A. Vazquez (Co-founder & CEO) y Rodrigo H. Vazquez (Co-founder, CTO & COO).
+- Novit Software es parte de la Anthropic Partner Network y su equipo se capacita con los cursos oficiales de Anthropic.
+- Novit Software desarrolla agentes de IA integrados a los procesos de cada empresa, software a medida, consultoría IT (CTO as a Service), staff augmentation y ciberseguridad.
+- La Academia Novit es una formación gratuita, 100% online y con aval de UTN-FRBA sobre desarrollo de agentes de IA y software agéntico.
+
+## Qué hacemos
+
+### Transformación IA
+
+Agentes que trabajan y escalan como parte de tu proceso
+
+Sistemas agénticos integrados a tu operación real sin exponer datos sensibles, con permisos estrictos y trazabilidad de lo que hace cada agente. Construidos sobre una infraestructura pensada para escalar y mantenerla en el tiempo.
+
+Agentes en producción, sobre: Estrategia, Infraestructura, Gobierno, Seguridad.
+
+### Desarrollo a medida
+
+Desarrollo Software guiado por IA en todo el ciclo
+
+- Discovery, Desarrollo, Soporte y Evolución.
+- Desarrollo de Software guiado por IA en cada etapa.
+- Procesos y Criterios de Ingeniería que aseguran calidad y seguridad.
+
+### Consultoría IT / CTOaaS
+
+Optimizamos tus procesos de desarrollo y mejoramos la productividad de tu equipo
+
+- Implementar métricas de calidad y performance (KPI's)
+- Identificar ineficiencias y reducir costos
+- Gestionar de forma correcta la incorporación de Inteligencia Artificial
+- Implementar mejores prácticas de la ingeniería en software
+- Reducir tiempos de delivery
+- Automatizar pipelines de desarrollo
+- Contratar y motivar a los mejores recursos y proveedores
+
+### Staff Augmentation
+
+Capacidad elástica y multidisciplinaria para el equipo que ya tenés
+
+Equipos capacitados y comprometidos, células ágiles y staff augmentation que se adapta a tus procesos. Sin costos por escalar o reducir la demanda y con acceso a equipos multidisciplinarios sin tener que contratar cada especialidad.
+
+### Ciberseguridad
+
+Tu software protegido al ritmo en que aparecen las amenazas
+
+Las vulnerabilidades ya se descubren y se aprovechan a velocidad de máquina, en PHP, Node.js, Java, WordPress y hasta en los agentes que escriben código. Por eso protegemos tus Datos con IA, al mismo ritmo:
+
+- Inventario de dependencias cruzado todos los días con los avisos de cada proveedor y con lo que publican los investigadores.
+- Agentes que priorizan cada vulnerabilidad según la exposición real de tus sistemas.
+- Parches probados en un entorno aparte y desplegados en horas, con revisión humana en cada cambio.
+- Seguridad por diseño en lo que construimos: permisos mínimos, secretos fuera del código y trazabilidad de cada acceso.
+
+## Equipo
+
+Un equipo con criterio.
+
+Arquitectos de Software, Ingenieros de IA, Expertos en Seguridad, Ingenieros de Infraestructura, Analistas de QA, Diseñadores UX.
+
+## Inteligencia Artificial y Software Agéntico
+
+Página: https://www.novitsoftware.com/inteligencia-artificial/
+
+Te acompañamos a definir la estrategia, montar la infraestructura, construir los agentes de inteligencia artificial y a sostenerlos en el tiempo. Sobre una arquitectura reutilizable en la red privada de tu empresa.
+
+### Qué aporta un partner de transformación IA
+
+Acompañamos a la dirección en cuatro decisiones que ningún proyecto aislado resuelve, con el mismo equipo disponible a lo largo del tiempo.
+
+Somos parte de la red de partners de Anthropic, y nuestro equipo se capacita con sus cursos oficiales.
+
+- **Stack — Qué construir y sobre qué base:** Modelos, nube y frameworks elegidos por costo, dependencia y vida útil, con componentes que se reutilizan en vez de rehacerse.
+- **Medición — Cómo saber si funciona:** KPI de precisión, adopción, horas liberadas y costo por operación, definidos antes de desarrollar y monitoreados en producción.
+- **Seguridad — Qué datos salen de la empresa:** Procesamiento en red privada, identidad corporativa, trazabilidad de cada consulta y cumplimiento de GDPR.
+- **Proveedores — Qué exigirle a terceros:** Evaluación técnica de software y componentes de IA de terceros: integraciones, propiedad del dato y condiciones contractuales.
+
+### Una arquitectura de IA reutilizable
+
+Un RAG corporativo centralizado, una identidad única y una capa de integración común: cada agente nuevo se apoya en lo ya construido y cuesta menos que el anterior.
+
+- **RAG corporativo:** El conocimiento de la empresa, indexado una sola vez.
+- **Identidad y SSO:** Permisos y trazabilidad por usuario en cada consulta.
+- **Capa de integración:** Un único punto de acceso a los sistemas core.
+- **Modelos:** Razonamiento, embeddings y OCR intercambiables sin rehacer nada.
+
+### Del primer agente a la estrategia corporativa
+
+No se empieza con una estrategia final, se empieza con un caso puntual, y sobre eso se construye todo lo demás.
+
+1. **Un primer agente que funciona:** Un proceso concreto, medible y con dueño dentro de la empresa. Sirve para aprender y para convencer.
+2. **La infraestructura queda instalada:** El segundo agente arranca con la mitad del camino hecho, y el tercero sobre lo que dejó el segundo.
+3. **Gobierno, seguridad y métricas:** Datos en red privada, trazabilidad por usuario y KPI que valen para todos los agentes, no para uno solo.
+4. **Estándares para todo lo que sigue:** Las apps y los proveedores externos se conectan bajo las reglas que definimos junto a la empresa.
+
+## Desarrollo y Consultoría IT
+
+Página: https://www.novitsoftware.com/desarrollo-y-consultoria/
+
+Software a medida por etapas, con entregables propios en cada una, y consultoría sobre el proceso de desarrollo: métricas, KPI y optimización.
+
+### Creamos software único para los procesos de tu empresa
+
+La inteligencia artificial incrementó la productividad de la industria del software y nosotros nos transformamos para ofrecer servicios de calidad a una fracción del costo. Vendemos desarrollo por etapas, con entregables tangibles que alimentan a la siguiente.
+
+- **Discovery y planificación:** Relevamos y analizamos en detalle los requerimientos y las necesidades, definimos la arquitectura técnica del sistema según los objetivos del proyecto y diseñamos la experiencia de usuario con foco en la usabilidad y la navegación.
+- **Desarrollo e implementación:** Convertimos tu visión en realidad. Nuestro equipo de desarrolladores, arquitectos de software, diseñadores UX/UI y QA se encarga integralmente de la solución, o hace sinergia con los squads de desarrollo existentes.
+- **Soporte y mantenimiento:** Una vez en producción, damos soporte y mantenimiento continuo durante todo el ciclo de vida del software: corregimos errores e incorporamos mejoras, nuevas funcionalidades e integraciones para adaptar el sistema a las nuevas necesidades del negocio.
+
+Entregables del discovery: Documento de requisitos del sistema, Wireframes y prototipos UX/UI, Documento de diseño de la arquitectura, Propuesta de stack tecnológico, Project plan y Gantt.
+
+### Optimizamos el proceso de desarrollo de tu equipo
+
+Accedé a conocimiento experto y estrategias a medida en el momento en que lo requieras, para incrementar la productividad del equipo y optimizar los procesos con los que trabaja.
+
+Te ayudamos a:
+- Implementar métricas de calidad y performance (KPI)
+- Identificar ineficiencias y reducir costos
+- Generar código mantenible
+- Implementar mejores prácticas de la ingeniería de software
+- Reducir tiempos de delivery
+- Automatizar pipelines de desarrollo
+- Contratar y motivar a los mejores recursos y proveedores
+
+1. **Diagnóstico:** Analizamos los procesos de desarrollo de software de tu empresa para encontrar oportunidades de mejora en herramientas, marcos de trabajo y metodologías.
+2. **Definición de KPI:** Definimos y establecemos KPI alineados con tus objetivos de negocio para medir el rendimiento del equipo de desarrollo, el soporte a clientes, el área de QA y los proveedores de tecnología.
+3. **Optimización de procesos:** Trabajamos en estrecha colaboración con tus equipos de desarrollo para optimizar los procesos, identificar cuellos de botella e implementar las mejores prácticas de la ingeniería de software.
+4. **Análisis de resultados:** Aseguramos que las mejoras implementadas están generando el impacto deseado, con un monitoreo continuo.
+
+## Casos de éxito
+
+Página: https://www.novitsoftware.com/casos-de-exito/
+
+Desde 2015, con clientes activos en cinco países. Más de una década siendo partners de empresas en el mundo.
+
+- **Clasificación arancelaria asistida (United Logistic Company):** Años de antecedentes y criterio experto convertidos en un agente que encuentra el código arancelario para la declaración aduanera. Resultado: De horas de búsqueda a segundos.
+- **Facturación automatizada contra SAP (Gamma Group):** Interpreta las facturas de proveedores, arma la documentación en el ERP y captura datos de compra que antes se perdían. Resultado: Dos personas liberadas de la carga manual.
+
+### Inteligencia Artificial
+
+- United Logistic Company (Argentina): Años de antecedentes y criterio experto convertidos en un agente que encuentra el código arancelario para la declaración aduanera.
+- Gamma Group (España): Interpreta las facturas de proveedores, arma la documentación en el ERP y captura datos de compra que antes se perdían.
+
+### Software a medida
+
+- Consultatio (Argentina): Partners IT desde 2017, desarrollo y soporte 24/7 sobre Sistema de gestión comercial, CRM y plataforma de cobranzas integrada con entidades bancarias
+- Gamma Group (España): Desarrollo de nuevo e-commerce B2B
+- INDEC (Argentina): Plataforma web y mobile para censos y encuestas
+- City Parking (Colombia): App mobile y plataforma web para la gestión de membresías en una red de estacionamientos
+- Puig (Argentina): Plataforma web con integración a SAP y app mobile para punto de venta
+- Scanntech (Argentina): Software para punto de venta y campañas de mailing para retail
+- iglam Digital (Argentina): App mobile para relevamiento de precios
+- POSforms (Argentina): Diseño y desarrollo integral de un producto SaaS
+- TecnoVoz (Argentina): Desarrollo y migración de CRM, integración con la API de WhatsApp y desarrollo a bajo nivel TCP/IP y VoIP
+- Fulltime Group (Argentina): Data analytics para retail
+
+### Consultoría y procesos
+
+- MAS (Chile): Consultoría en procesos de desarrollo de software y soporte: SLA, métricas y KPI
+- SETUP (Argentina): Consultoría en optimización de procesos de desarrollo de software y KPI
+- Megatlon (Argentina): Consultoría en data migration e implementación de SAP S/4HANA, con soporte ABAP
+- Softtek (Argentina): Consultoría SAP FICO y ABAP
+
+### Staff Augmentation
+
+- NovoPath (México y Estados Unidos): Staff augmentation para healthcare: talento experto en tiempo récord y a un costo competitivo
+- GovPilot (Estados Unidos): Outsourcing de un equipo de desarrollo integral: devs, QA y Scrum Master
+- Evidence Based Metrics (Chile): Soporte y mantenimiento evolutivo de plataforma SaaS
+- TEDx Río de la Plata (Argentina): Soporte de plataforma web educativa
+- product minds (Brasil): Integraciones con Bancolombia y Davivienda Brasil
+
+Países donde hicimos proyectos: Argentina, España, Colombia, Chile, México, Estados Unidos, Brasil.
+
+## Desarrollo de Agentes IA y Software Agéntico
+
+Página: https://www.novitsoftware.com/academianovit/
+
+Una cursada de 32 horas sobre cómo se diseña, se construye y se sostiene un sistema agéntico: arquitectura, orquestación, contexto, costos, seguridad y observabilidad.
+
+- Carga total: 32 horas
+- Clases: 14
+- Talleres de consulta: 2
+- Modalidad: 100% online
+
+- **Fundamentos:** La anatomía de un agente como sistema de software —proveedor de LLM, contexto, tools, memoria y loop de control—, qué cambia respecto de un sistema tradicional, y el diseño de tools con contratos claros sobre Model Context Protocol.
+- **Contexto y conocimiento:** Qué se le manda al modelo y por qué: presupuesto de contexto, selección y compactación. RAG sobre PostgreSQL con pgvector, la calidad de la recuperación y cuándo no usarlo. Memoria de corto y largo plazo.
+- **Arquitectura y orquestación:** Prompt chaining, routing, parallelization, orchestrator-workers y evaluator-optimizer, y cuándo alcanza un workflow determinístico en lugar de un agente. Handoff entre agentes, multimodalidad y validación humana antes de escribir en sistemas operativos.
+- **Modelos, costos y ejecución:** Proveedores en la nube y sus límites de costo y de uso, criterio para elegir modelo según propósito y latencia, ejecución local y en la nube, y el costo por resolución medido en tokens y tiempo.
+- **Producción, seguridad y observabilidad:** Prompt injection, guardrails y permisos acotados al mínimo en cada sistema que el agente toca. Registrar la decisión y no sólo la respuesta: reintentos, timeouts, fallos parciales y trazabilidad auditable.
+
+Consultas: academia@novit.com.ar
+
+## Contacto
+
+- WhatsApp: +54 11 3176 9406 (https://wa.me/5491131769406)
+- Email: info@novitsoftware.com
+- Instagram: https://www.instagram.com/novit.software
+- LinkedIn: https://www.linkedin.com/company/novit-software
